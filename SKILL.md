@@ -1,5 +1,5 @@
 ---
-name: excalidraw
+name: ng-excalidraw
 description: Create and edit Excalidraw diagrams programmatically. Use when the user asks to create diagrams, flowcharts, architecture diagrams, wireframes, or any visual drawings in Excalidraw format (.excalidraw files).
 ---
 
